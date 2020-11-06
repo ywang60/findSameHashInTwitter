@@ -1,0 +1,1 @@
+{"https://api.twitter.com/1.1/search/tweets.json_count_100_q_#2020election": {"errors": [{"code": 215, "message": "Bad Authentication data."}]}, "https://api.twitter.com/1.1/search/tweets.json_q_{'q': '#2020election', 'count': 100}": {"errors": [{"code": 215, "message": "Bad Authentication data."}]}}
